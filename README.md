@@ -9,6 +9,10 @@ An experimental page transition concept for magazines and blogs where an excerpt
 [Demo](http://tympanus.net/Development/PreviewContentTransition/)
 
 
+## scsx
+
+Used by scsx for iefp
+
 ## Installation
 
 Install dependencies:
@@ -28,14 +32,6 @@ Create the build:
 ```
 npm run build
 ```
-
-## Credits
-
-- Images from [Unsplash](https://unsplash.com/)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
 [MIT](LICENSE)
